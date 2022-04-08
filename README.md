@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hey! 👋
+I'm Mahdi, a 14 year old web developer from England.
 
-<!--
-**MMZaini/mmzaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- 👨‍💻 JavaScript, Python
+- ⚙️ React, Vue
+- 👁️ CSS, Bootstrap, Vue
 
-Here are some ideas to get you started:
+## Extras
+- 🔭 I’m currently working on adding features to sites and programs i've already created.
+- 🌱 I’m currently furthering my understanding of python and javascript, as well as learning ReactJS.
+- ⚡ Fun fact: I started programming from the age of 8!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [zaini.tech](https://www.zaini.tech)
+- [@zainimahdii](https://instagram.com/zainimahdii) on Instagram
+- [MoMahdi#8017](./) on Discord
