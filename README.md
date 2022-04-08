@@ -1,3 +1,8 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/mmzaini/mmzaini/master/name.svg" alt="Mahdi Zaini" />
+</h1>
+
+
 ## Hey! 👋
 I'm Mahdi, a 14 year old web developer from England.
 
