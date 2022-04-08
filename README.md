@@ -17,6 +17,7 @@ I'm Mahdi, a 14 year old web developer from England.
 - ⚡ Fun fact: I started programming from the age of 8!
 
 ## Contact
-- [zaini.tech](https://www.zaini.tech)
+- [www.zaini.tech](https://www.zaini.tech)
 - [@zainimahdii](https://instagram.com/zainimahdii) on Instagram
 - [MoMahdi#8017](./) on Discord
+
