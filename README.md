@@ -19,5 +19,5 @@ I'm Mahdi, a 14 year old web developer from England.
 ## Contact
 - [www.zaini.tech](https://www.zaini.tech)
 - [@zainimahdii](https://instagram.com/zainimahdii) on Instagram
-- [MoMahdi#8017](./) on Discord
+- [MoMahdi#0599](./) on Discord
 
