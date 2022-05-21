@@ -4,7 +4,7 @@
 
 
 ## Hey! 👋
-I'm Mahdi, a 14 year old web developer from England.
+I'm Mahdi, a first gen 14 year old aspiring well developer from England.
 
 ## Skills
 - 👨‍💻 JavaScript, Python
@@ -17,6 +17,7 @@ I'm Mahdi, a 14 year old web developer from England.
 - ⚡ Fun fact: I started programming from the age of 8!
 
 ## Contact
+- Feel free to reach out at any time!
 - [www.zaini.tech](https://www.zaini.tech)
 - [@zainimahdii](https://instagram.com/zainimahdii) on Instagram
 - [MoMahdi#0599](./) on Discord
