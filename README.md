@@ -4,7 +4,7 @@
 
 
 ## Hey! 👋
-I'm Mahdi, a first gen 14 year old aspiring well developer from England.
+I'm Mahdi, a first gen 14 year old aspiring developer from England.
 
 ## Skills
 - 👨‍💻 JavaScript, Python
@@ -20,5 +20,5 @@ I'm Mahdi, a first gen 14 year old aspiring well developer from England.
 - Feel free to reach out at any time!
 - [www.zaini.tech](https://www.zaini.tech)
 - [@zainimahdii](https://instagram.com/zainimahdii) on Instagram
-- [MoMahdi#0599](./) on Discord
+- [MoMahdi#0313](./) on Discord
 
