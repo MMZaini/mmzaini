@@ -4,7 +4,7 @@
 
 
 ## Hey! 👋
-I'm Mahdi, a first gen 14 year old aspiring developer from England.
+I'm Mahdi, a first gen aspiring developer from England.
 
 ## Skills
 - 👨‍💻 JavaScript, Python
