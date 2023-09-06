@@ -20,5 +20,5 @@ I'm Mahdi, a first gen aspiring developer from England.
 - Feel free to reach out at any time!
 - [www.zaini.tech](https://www.zaini.tech)
 - [@zainimahdii](https://instagram.com/zainimahdii) on Instagram
-- [MoMahdi#0613](./) on Discord
+- [MoMahdi](./) on Discord
 
