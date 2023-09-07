@@ -18,4 +18,4 @@ I'm Mahdi, a first gen aspiring developer from Iraq.
 
 ## Contact
 - Feel free to reach out at any time!
-- [Mahdi Z](mailto:zainimahdi@outlook.com?subject=[GitHub]%20Source%20Han%20Sans)
+- Email: [Mahdi Z](mailto:zainimahdi@outlook.com?subject=[GitHub]%20Source%20Han%20Sans)
