@@ -17,5 +17,4 @@ I'm Mahdi, a first gen aspiring developer from Iraq.
 - ⚡ Fun fact: I started programming from the age of 8!
 
 ## Contact
-- Feel free to reach out at any time!
-- Email: [Mahdi Z](mailto:zainimahdi@outlook.com?subject=[GitHub]%20Source%20Han%20Sans)
+- Feel free to [reach out](mailto:zainimahdi@outlook.com?subject=[GitHub]%20Source%20Han%20Sans) at any time!
