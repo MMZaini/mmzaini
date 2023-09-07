@@ -4,7 +4,7 @@
 
 
 ## Hey! 👋
-I'm Mahdi, a first gen aspiring developer from England.
+I'm Mahdi, a first gen aspiring developer from Iraq.
 
 ## Skills
 - 👨‍💻 JavaScript, Python
@@ -18,7 +18,4 @@ I'm Mahdi, a first gen aspiring developer from England.
 
 ## Contact
 - Feel free to reach out at any time!
-- [www.zaini.tech](https://www.zaini.tech)
-- [@zainimahdii](https://instagram.com/zainimahdii) on Instagram
-- [MoMahdi](./) on Discord
-
+[Mahdi Z](mailto:zainimahdi@outlook.com?subject=[GitHub]%20Source%20Han%20Sans)
