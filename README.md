@@ -23,10 +23,21 @@ const AboutMe = {
 
   funFact: () => "I started programming at the age of 6",
 
-  mainProgrammingLanguages: () => ["ReactJS", "Next.js", "Python"],
+  technologies: () => [
+    "React",
+    "Next.js",
+    "Supabase",
+    "JavaScript",
+    "HTML/CSS",
+    "Selenium",
+    "Python",
+    "API integration (OpenAI & RESTful APIs)"
+  ],
 
-  contactInformation: () => ["email: zainimahdi@outlook.com"]
-};
+  contactInformation: () => [
+    "email: zainimahdi@outlook.com",
+    "LinkedIn: https://www.linkedin.com/in/mahdi-zaini"
+  ]};
 ```
 
 ## 🌐 Socials:
