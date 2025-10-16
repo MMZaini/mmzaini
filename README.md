@@ -31,7 +31,7 @@ const AboutMe = {
     "HTML/CSS",
     "Selenium",
     "Python",
-    "API integration (OpenAI & RESTful APIs)"
+    "API integration"
   ],
 
   contactInformation: () => [
